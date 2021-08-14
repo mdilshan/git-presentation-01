@@ -4,6 +4,10 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+h1{
+    color: red;
+}
+
 body{
     background-color: aqua;
 }
